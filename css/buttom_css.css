@@ -1,0 +1,30 @@
+
+#b1{
+    border-radius: 10px;
+    border: 1px solid green;
+    color: green;
+    height: 25px;
+    width: 120px;
+    display: block;
+}
+#b2{
+    border-radius: 50%;
+    border: 1px solid rgb(94, 218, 146);
+    color: rgb(255, 255, 255);
+    height: 25px;
+    width: 25px;
+    display: block;
+    background-color:rgb(94, 218, 146);
+    margin: 10px;
+}
+#b3{
+    border: 1px solid rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    height: 25px;
+    width: 180px;
+    display: block;
+    background-color:rgb(10, 32, 226);
+    margin: 10px;
+    
+    box-shadow:         6px 6px 3px 0px rgba(50, 50, 50, 0.8);
+}
