@@ -1,0 +1,14 @@
+a{
+    border: 1px solid red;
+}
+
+.link{
+    background-color:green;
+}
+[href]{
+    padding: 100px;
+}
+
+p.quote a{
+    border: 2px solid blue;
+}

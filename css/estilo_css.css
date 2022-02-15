@@ -1,0 +1,32 @@
+#container1{
+    background-color: black;
+
+}
+#container1 #my{
+    color: white;
+    font-family: cursive;
+}
+#container1 #cloud{
+    color: cyan;
+    font-family: cursive;
+}
+#container2{
+    background-color: rgb(125, 6, 204);
+    font-style: italic;
+    color: white;
+    font-family: sans-serif;
+    
+    text-align: center;
+
+}
+#container2 h2{
+    font-weight: 10px;
+}
+#container3{
+    background-color: rgb(159, 207, 252);
+    text-align: right;
+}
+[href]{
+    color: rebeccapurple;
+    font-family: monospace;
+}
