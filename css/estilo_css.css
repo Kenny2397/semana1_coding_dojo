@@ -1,21 +1,26 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+}
+div{
+    margin: 8px;
+}
 #container1{
     background-color: black;
 
 }
 #container1 #my{
     color: white;
-    font-family: cursive;
+    /* font-family: cursive; */
 }
 #container1 #cloud{
     color: cyan;
-    font-family: cursive;
+    /* font-family: cursive; */
 }
 #container2{
     background-color: rgb(125, 6, 204);
     font-style: italic;
-    color: white;
-    font-family: sans-serif;
-    
+    color: white;    
     text-align: center;
 
 }
@@ -28,5 +33,6 @@
 }
 [href]{
     color: rebeccapurple;
-    font-family: monospace;
+    /* font-family: monospace; */
+    text-decoration:underline;
 }
